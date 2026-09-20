@@ -7,5 +7,6 @@ public class FactorialIterativo {
             factorial = factorial * i;
         }
         System.out.println(factorial);
+
     }
 }
